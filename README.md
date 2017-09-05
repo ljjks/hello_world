@@ -1,2 +1,7 @@
 # hello_world
-a new repository
+
+Hi!
+
+Junjie here.I learn python and machine-learning.
+
+Who can tell me how to make a project
